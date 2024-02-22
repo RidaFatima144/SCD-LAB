@@ -17,7 +17,7 @@ class DataProcessor:
         data.discard(element)
         return data
 
-if _name_ == "_main_":
+
     # Creating an instance of DataProcessor
     data_processor = DataProcessor()
 
